@@ -1,4 +1,6 @@
-baseURL = 'https://1kyte.github.io/blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://1kyte.github.io'
+languageCode = "zh-CN"
+title = "The Cold Tone"
 theme = "PaperMod"
+
+
